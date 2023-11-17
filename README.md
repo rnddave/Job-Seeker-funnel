@@ -16,7 +16,7 @@ ___
 
 **So how does this work?**
 
-From the **kanban view*** I keep track of the following status which represent a stage in the funnel: 
+From the **kanban view** I keep track of the following status which represent a stage in the funnel: 
 
 - **AWARENESS**
 - _When did we first see the job (this is the start date (if looking at the timeline view)_
@@ -48,7 +48,7 @@ ___
 
 I usually work in the **Table View** which makes recording dates a little easier. We follow all the same Status options as above, but I also record dates of any interviews and their respective feedbacks, this allows me to identify any weaknesses flagged up (feedback can be your most useful tool when looking for a job). Additionally I track the CLOSED date. 
 
-- ** CLOSED** (can be positive or negative
+- **CLOSED** (can be positive or negative
 - _closing an application could be the result of a positive (you have the job) or negative outcome_ 
 
 ___
